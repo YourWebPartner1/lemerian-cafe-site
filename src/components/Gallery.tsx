@@ -13,10 +13,11 @@ const galleryImages = [
     url: 'https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=800',
     title: 'Laptop Corner',
   },
-  {
-    url: 'https://images.pexels.com/photos/1415555/pexels-photo-1415555.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Coffee Time',
-  },
+{
+  url: 'https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&w=1600',
+  title: 'Coffee Time',
+},
+
   {
     url: 'https://images.pexels.com/photos/6347888/pexels-photo-6347888.jpeg?auto=compress&cs=tinysrgb&w=800',
     title: 'Evening Vibes',
